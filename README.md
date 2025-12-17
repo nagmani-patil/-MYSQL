@@ -29,5 +29,31 @@ The system covers:
 - Room charge: RoomRent × Nights
 
 
+DAY-3 
 
+📌 Topics Covered
+
+Database selection (USE)
+
+Table creation (CREATE TABLE)
+
+Data insertion (INSERT)
+
+Data retrieval (SELECT)
+
+Data update (UPDATE)
+
+Data deletion (DELETE)
+
+Table alteration (ALTER)
+
+Auto Increment & Primary Key
+
+NULL handling
+
+Backup table creation
+
+DELETE vs TRUNCATE vs DROP
+
+Transaction basics
 
